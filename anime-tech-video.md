@@ -16,6 +16,7 @@
 ## 2.1. 자료 습득
 캐릭터 - https://raw.githubusercontent.com/llaa33219/c3-image-bucket/refs/heads/main/turnaround-v2.png
 배경 - https://raw.githubusercontent.com/llaa33219/c3-image-bucket/refs/heads/main/bg.png
+목소리 - https://raw.githubusercontent.com/llaa33219/c3-image-bucket/refs/heads/main/voice.mp3
 
 위 링크에서 자료를 얻은 후 직접 보고, 어디에 어떻게 될지를 판단하며,
 1.에서 받은 대본과 전체적인 진행 상황과 자료를 보고, 잘 판단한다.
