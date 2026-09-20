@@ -15,7 +15,7 @@
 ## 2. 제작
 ## 2.1. 자료 습득
 캐릭터 - https://raw.githubusercontent.com/llaa33219/c3-image-bucket/refs/heads/main/turnaround-v2.png
-배경 - https://raw.githubusercontent.com/llaa33219/c3-image-bucket/refs/heads/main/bg.png
+배경 - https://raw.githubusercontent.com/llaa33219/c3-image-bucket/refs/heads/main/bg-v2.png
 목소리 - https://raw.githubusercontent.com/llaa33219/c3-image-bucket/refs/heads/main/voice.mp3
 
 위 링크에서 자료를 얻은 후 직접 보고, 어디에 어떻게 될지를 판단하며,
@@ -31,7 +31,7 @@
 전체적인 동선이나 이전 장면에서의 끝을 생각하여 자연스럽게 이어지게 하는 것이 중요하다.
 모든 것을 세세하게 작성하는 것이 권장된다.
 그림체 설정 prompt 부분에서는 최신 일본 애니메이션, 섬세한 그림자, 정밀한 빛 묘사, 뭐 이것저것 해서 최신 고품질 일본 애니메이션 느낌 나게 설정해라. 어떤 작가 그림체 배끼기 이런거 말고 말로 잘 설명해라.
-기본적으로 명령이 없을 시 배경의 좌측에서 빛이 들어오며, 우측이 비교적 어두운 것으로 긴주하여 prompt를 작성한다.
+기본적으로 명령이 없을 시 배경의 우측에서 빛이 들어오며, 좌측이 비교적 어두운 것으로 긴주하여 prompt를 작성한다.
 레퍼런스에 들어가는 미디아도 활용이 당연히 되야하기 때문에 어디에 어떻게 넣을지를 정확히 명시한다.(배경 레퍼런스가 존재하기 때문에, 거기서 어떻게 넣어줄지를 고민해야 한다.)
 모든 장면에 대하여 세세하게 생각한다.
 ## 2.4. prompt 출력
