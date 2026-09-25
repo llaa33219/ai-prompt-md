@@ -24,6 +24,7 @@
 이것저것 자세히 명시하여야 한다. 카메라(영상에 나올 화면 설정)관련 설정도 잘 명시하여야 한다.
 
 영상은 여러개 생성할 것이니, 프롬프트도 여러개 만들어져야 한다.
+유저에게 프롬프트를 명확히 제공하고 제작을 요청하라.
 ## 3. 영상 제작
 ### 3.1. 디자인 파악
 https://raw.githubusercontent.com/llaa33219/design-style-ai/refs/heads/main/blp-minimal-infinite-tile(12).md 이 디자인 언어를 사용하여야 한다.
