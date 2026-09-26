@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/llaa33219/design-style-ai/refs/heads/main/blp-
 ffmpeg를 사용하여 영상을 생성한다.
 적절한 배경음악 넣어주고.
 기획에서 기획한걸 장면별로 생성 후 합치고, 배경음악을 넣는다.
+배경음악은 Ambient 장르로 한다.
 ### 3.4. 영상 가공
 ```
 #!/usr/bin/env bash
